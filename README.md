@@ -1,2 +1,2 @@
 # camera-app
-web browser camera app (for IOS)
+Super awesome camera web app built with HTML, CSS, and JS.
